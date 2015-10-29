@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Temperature Converter</string>
+    <string name="temp_in_c">Temperature in celsius</string>
+    <string name="celsius_short">°C</string>
+    <string name="temp_in_f">Temperature in fahrenheit</string>
+    <string name="fahrenheit_short">°F</string>
+    <string name="to_fahrenheit">To fahrenheit</string>
+    <string name="to_celsius">To celsius</string>
+</resources>
