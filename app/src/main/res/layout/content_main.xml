@@ -35,13 +35,16 @@
             android:text="@string/celsius_short"
             android:id="@+id/hint_c"
             android:layout_alignRight="@+id/in_c"
-            android:textSize="@dimen/abc_text_size_medium_material"
+            android:layout_alignEnd="@+id/in_c"
+            android:textSize="@dimen/default_text_size"
             android:layout_alignBaseline="@+id/in_c"
             android:layout_alignParentRight="false"
+            android:layout_alignParentEnd="false"
             android:layout_alignParentBottom="false"
             android:layout_alignParentLeft="false"
-            android:elegantTextHeight="false"
-            android:layout_marginRight="5dp" />
+            android:layout_alignParentStart="false"
+            android:layout_marginRight="5dp"
+            android:layout_marginEnd="5dp" />
     </RelativeLayout>
 
     <RelativeLayout
@@ -70,13 +73,16 @@
             android:text="@string/fahrenheit_short"
             android:id="@+id/hint_f"
             android:layout_alignRight="@+id/in_f"
-            android:textSize="@dimen/abc_text_size_medium_material"
+            android:layout_alignEnd="@+id/in_f"
+            android:textSize="@dimen/default_text_size"
             android:layout_alignBaseline="@+id/in_f"
             android:layout_alignParentRight="false"
+            android:layout_alignParentEnd="false"
             android:layout_alignParentBottom="false"
             android:layout_alignParentLeft="false"
-            android:elegantTextHeight="false"
-            android:layout_marginRight="5dp" />
+            android:layout_alignParentStart="false"
+            android:layout_marginRight="5dp"
+            android:layout_marginEnd="5dp" />
 
     </RelativeLayout>
 
