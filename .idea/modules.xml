@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/TemperatureConverter.iml" filepath="$PROJECT_DIR$/TemperatureConverter.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/temperature.iml" filepath="$PROJECT_DIR$/temperature.iml" />
     </modules>
   </component>
 </project>
