@@ -42,6 +42,6 @@ You will need Android Studio for this tutorial. An Android device is nice to hav
   * confirm by pressing enter
 * If you want further practice, you could add the functionality to calculate to kelvin!
     
+## The solution
 
-  
-  
+If you have problems or just want to check, if you have done everything correct, you can check my given solution. For each step I have created a branch. Just check the commits or compare the branches to see what I have done to solve the problems.
