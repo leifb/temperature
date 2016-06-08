@@ -23,12 +23,12 @@ You will need Android Studio for this tutorial. An Android device is nice to hav
   * Copy and paste the attribute and adjust the id of the new button (for examle to ``@+id/button_to_c``)
   * Change the text of your new button:
     * In the ``android:text`` attribute, change ``@string/to_fahrenheit`` to ``To celsius``
+  * Change the ``android:layout_below`` value to ``@+id/button_to_f``
 * Add the functionality to convert
   * You can write methods for this either in the ``MainActivity`` class, or create a new class
     * Java code is generally placed in ``app/java/...``
     * to convert farenheit to celsius use this formula: ``c = (f - 32) * 5/9``
     * to convert celsius to farenheit use this formula: ``f = c * 9/5 + 32``
-    * TODO (int)?
   * Get the button and textfield references and add the event listeners
     * You will have to do this in the ``MainActivity`` class and there in the ``onCreate`` method
     * To get a button reference, you can use ``Button b = (Button) findViewById(R.id.buttonID);``
