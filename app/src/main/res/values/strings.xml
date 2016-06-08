@@ -5,4 +5,5 @@
     <string name="temp_in_f">Temperature in fahrenheit</string>
     <string name="fahrenheit_short">°F</string>
     <string name="to_fahrenheit">To fahrenheit</string>
+    <string name="to_celsius">To celsius</string>
 </resources>

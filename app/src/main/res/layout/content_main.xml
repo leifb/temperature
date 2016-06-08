@@ -96,7 +96,7 @@
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="To celsius"
+        android:text="@string/to_celsius"
         android:id="@+id/button_to_c"
         android:layout_below="@+id/button_to_f" />
 
