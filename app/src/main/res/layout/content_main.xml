@@ -93,4 +93,11 @@
         android:id="@+id/button_to_f"
         android:layout_below="@+id/layout_f" />
 
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="To celsius"
+        android:id="@+id/button_to_c"
+        android:layout_below="@+id/button_to_f" />
+
 </RelativeLayout>
